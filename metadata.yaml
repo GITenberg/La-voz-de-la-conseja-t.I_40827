@@ -1,0 +1,148 @@
+_repo: La-voz-de-la-conseja-t.I_40827
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40827-h/images/cover_lg.jpg
+creator:
+  authors:
+  - agent_name: León, Ricardo
+    alias: Leon, Ricardo
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '40840'
+    url: http://www.gutenberg.org/2009/agents/40840
+  - agent_name: Nogales, José
+    aliases:
+    - Nogales, Jose
+    - Nogales, José Nogales y
+    birthdate: 1860
+    deathdate: 1908
+    gutenberg_agent_id: '37974'
+    url: http://www.gutenberg.org/2009/agents/37974
+  - agent_name: Dicenta, Joaquín
+    aliases:
+    - Benedicto, Joaquín Dicenta y
+    - Dicenta, Joaquin
+    - Dicenta y Benedicto, Joaquín
+    birthdate: 1862
+    deathdate: 1917
+    gutenberg_agent_id: '40839'
+    url: http://www.gutenberg.org/2009/agents/40839
+  - agent_name: Darío, Rubén
+    aliases:
+    - Sarmiento, Félix Rubén García
+    - Sarmiento, Felix Ruben Garcia
+    - Dario, Ruben
+    - García Sarmiento, Félix Rubén
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '31590'
+    url: http://www.gutenberg.org/2009/agents/31590
+    wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
+  - agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+  - agent_name: Mata, Pedro
+    aliases:
+    - Dominguez, Pedro Mata
+    - Mata Domínguez, Pedro
+    - Domínguez, Pedro Mata
+    birthdate: 1875
+    deathdate: 1946
+    gutenberg_agent_id: '40843'
+    url: http://www.gutenberg.org/2009/agents/40843
+  - agent_name: Reyes, Arturo
+    birthdate: 1863
+    deathdate: 1913
+    gutenberg_agent_id: '40842'
+    url: http://www.gutenberg.org/2009/agents/40842
+  - agent_name: Répide, Pedro de
+    aliases:
+    - Gallego, Pedro de Répide y
+    - Repide, Pedro de
+    birthdate: 1882
+    deathdate: 1948
+    gutenberg_agent_id: '40841'
+    url: http://www.gutenberg.org/2009/agents/40841
+  - agent_name: Palacio Valdés, Armando
+    aliases:
+    - Valdés, Armando Palacio
+    - Palacio Valdes, Armando
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+  - agent_name: Unamuno, Miguel de
+    aliases:
+    - Jugo, Miguel de Unamuno y
+    - De Unamuno, Miguel
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '5605'
+    url: http://www.gutenberg.org/2009/agents/5605
+    wikipedia: http://en.wikipedia.org/wiki/Miguel_de_Unamuno
+  - agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Pardo Bazan, Emilia, condesa de
+    - Bazán, Emilia, condesa de Pardo
+    - Bazán, Emilia Pardo, condesa de
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - http://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+  - agent_name: Benavente, Jacinto
+    aliases:
+    - Benavente y Martínez, Jacinto
+    - Benavente y Martinez, Jacinto
+    - Benevente, Jacinto
+    - Martínez, Jacinto Benavente y
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '33140'
+    url: http://www.gutenberg.org/2009/agents/33140
+    wikipedia: http://en.wikipedia.org/wiki/Jacinto_Benavente
+  - agent_name: Baroja, Pío
+    aliases:
+    - Nessi, Pío Baroja y
+    - Baroja, Pio
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2669'
+    url: http://www.gutenberg.org/2009/agents/2669
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pío_Baroja
+    - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
+  editor:
+    agent_name: Carrere, Emilio
+    alias: Carrère, Emilio
+    birthdate: 1881
+    deathdate: 1947
+    gutenberg_agent_id: '25770'
+    url: http://www.gutenberg.org/2009/agents/25770
+description: ''
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40827'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction'
+- !lcc 'PQ'
+title: "La voz de la conseja, t.1\r\nSelección de las mejores novelas breves y cuentos\
+  \ de los más esclarecidos literatos"
+url: http://www.gutenberg.org/ebooks/40827
